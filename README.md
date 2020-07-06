@@ -1,0 +1,3 @@
+# AI-Attendence-System
+Its a Barcode cum mask detection attendence system, where when you come in front of camera it will start detecting wether you are wearing mask or not. 
+If you are not wearing it will ask to wear mask otherwise it will not mark your attendence and as an when you wear it , it will ask you to show your unique barcode , which will be already provided to you before hand by using this programe and as you show your barcode , it will get detected and you atendence will be marked at the database.At the end of every month, you will recieve an email of yoour total attendence in that month.
